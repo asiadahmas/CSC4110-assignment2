@@ -1,0 +1,21 @@
+|FR1.  Student Template Layout|
+|---|
+|**Goal**: The user will easily be able to input their student information into this layout.
+**Stakeholders:** Customers|
+| **Description:** User will be able to include their name, school, courses, achievements, resume, and anything else they feel like will be necessary on their student website.   
+| **Origin:** Based on initial project specification   document, team members came up with this description during the first   meeting.|
+| **Version:** 1.0  |  
+|**Date:** //
+|  **Priority:** 5 |
+
+
+
+|FR2.  Template Icons|
+|---|
+|**Goal**: The user will be able to insert icons that relates to the 3 different templates. 
+**Stakeholders:** Customers|
+| **Description:** The user can have icons that allows viewers to see if they have included a Student, Personal, or Business website.
+| **Origin:** Based on initial project specification   document, team members came up with this description during the first  meeting.|
+| **Version:** 1.0  |  
+|**Date:** //  
+|  **Priority:** 1 |
